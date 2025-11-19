@@ -4,6 +4,7 @@
 
  - 本 [Magisk](https://github.com/topjohnwu/Magisk) 模块通过修改 `/my_region/etc/extension/com.oplus.oplus-feature.xml` 文件，使 OxygenOS 16 的设置界面显示「全亮度低频闪」选项。
  - 模块模板与特性参数**均参考自酷安大佬「[天伞桜](https://www.coolapk.com/feed/61520805)」**，特此致谢！
+ - [English README](README.md)
 
 ## ⚠️ 重要提醒
 
