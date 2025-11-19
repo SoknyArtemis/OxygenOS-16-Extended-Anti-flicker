@@ -9,7 +9,7 @@
 ## ⚠️ Important Notes
 
 - This module is for personal learning and sharing purposes. The author is not a professional developer.
-- Currently, **tested and working only on the author’s OnePlus 13R (CPH 2691)**. Compatibility with other OxygenOS 16 devices is theoretical; the author lacks the means for extensive testing. Please verify device compatibility yourself.
+- Currently, **tested and working only on the author’s OnePlus 13R (CPH2691_16.0.0.250)**. Compatibility with other OxygenOS 16 devices is theoretical; the author lacks the means for extensive testing. Please verify device compatibility yourself.
 - Flashing this module **may lead to serious issues** such as bricking your device, system failure, or boot loops. **Please make a full backup of important data before proceeding, and assume all associated risks.** The author **bears no responsibility** for any data loss, system malfunctions, or hardware damage resulting from the use of this module.
 
 ## 📄 Disclaimer
